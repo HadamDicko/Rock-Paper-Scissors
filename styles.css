@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #4caf50, #81c784);
+}
+
+.container {
+    text-align: center;
+    background-color: white; /* Optional for contrast */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.choices {
+    margin: 20px 0;
+}
+
+.choice {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #4caf50; /* Button color */
+    color: white; /* Text color */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease;
+}
+
+.choice:hover {
+    background-color: #388e3c; /* Darker shade on hover */
+}
+
+.scoreboard {
+    margin: 20px 0;
+}
+
+#result {
+    font-size: 20px;
+    margin-top: 20px;
+}
