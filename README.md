@@ -2,6 +2,8 @@
 
 A simple Rock, Paper, Scissors game that allows users to play against a computer opponent. The game keeps track of wins, losses, and ties, and includes a reset functionality.
 
+![Screenshot 2024-10-10 at 10 07 37 AM](https://github.com/user-attachments/assets/0caf36af-aa55-4a0f-b25c-b3579de9de1d)
+
 ## Features
 
 - Play against a computer opponent.
