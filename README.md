@@ -25,4 +25,4 @@ A simple Rock, Paper, Scissors game that allows users to play against a computer
 
 1. Clone the repository or download the files.
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/HadamDicko/Rock-Paper-Scissors/tree/main
